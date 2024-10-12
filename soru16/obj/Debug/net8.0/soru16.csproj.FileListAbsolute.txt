@@ -1,0 +1,14 @@
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\bin\Debug\net8.0\soru16.exe
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\bin\Debug\net8.0\soru16.deps.json
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\bin\Debug\net8.0\soru16.runtimeconfig.json
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\bin\Debug\net8.0\soru16.dll
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\bin\Debug\net8.0\soru16.pdb
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\obj\Debug\net8.0\soru16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\obj\Debug\net8.0\soru16.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\obj\Debug\net8.0\soru16.AssemblyInfo.cs
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\obj\Debug\net8.0\soru16.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\obj\Debug\net8.0\soru16.dll
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\obj\Debug\net8.0\refint\soru16.dll
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\obj\Debug\net8.0\soru16.pdb
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\obj\Debug\net8.0\soru16.genruntimeconfig.cache
+C:\Users\MSI-NB\Documents\GitHub\01-arrays-homework\soru16\obj\Debug\net8.0\ref\soru16.dll
